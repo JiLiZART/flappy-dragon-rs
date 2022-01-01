@@ -1,5 +1,6 @@
 [package]
-name = "hello_bterm"
+name = "flappy_dragon"
+author = "Nikolay Kostyurin <jilizart@gmail.com>"
 version = "0.1.0"
 edition = "2021"
 
